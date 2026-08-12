@@ -59,7 +59,7 @@ My name is ${name}.
 
 I am enquiring about coding classes for a ${age}-year-old child.
 
-I am interested in: ${interest}.
+I am interested in ${interest}.
 
 Please could you send me more information about availability and registration?`;
 
